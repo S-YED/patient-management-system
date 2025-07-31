@@ -38,7 +38,7 @@ It is currently in progress and focuses on modular, scalable, event-driven desig
 ![Development Architecture](images/development-architecture.png)
 
 ### 2. Spring Boot Layered Architecture
-![Spring Boot Architecture](images/spring-boot-architecture.png)
+![Spring Boot Architecture](images/IMG-20250731-WA0008.jpg)
 
 ### 3. Deployment Architecture
 ![Deployment Architecture](images/deployment-architecture.png)
