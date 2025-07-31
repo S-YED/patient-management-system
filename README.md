@@ -28,7 +28,7 @@ It is currently in progress and focuses on modular, scalable, event-driven desig
 
 ## 📚 What I’m Learning/Implementing
 
-![What you will learn](images/what-you-will-learn.png)
+![What Iam learning](images/IMG-20250731-WA0009.jpg)
 
 ---
 
